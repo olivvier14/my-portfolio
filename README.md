@@ -1,4 +1,4 @@
-# My Website
+# My Portfolio
 
 This is my personal website created and maintained by **olivvier14**.  
 It’s a simple front-end project built with HTML, CSS, and JavaScript, and is hosted using GitHub Pages.
@@ -21,4 +21,4 @@ This project is **not open source**.
 - You are allowed to **view** and **share** the live site.
 - You are **NOT allowed** to copy, modify, or reuse the source code in any form without permission.
 
-Check the [`LICENSE`](./LICENSE) file for full details.
+Check the [`LICENSE`](./LICENSE.txt) file for full details.
