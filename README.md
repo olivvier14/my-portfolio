@@ -28,4 +28,4 @@ This project is **not open source**.
 - You are allowed to **view** and **share** the live site.
 - You are **NOT allowed** to copy, modify, or reuse the source code in any form without permission.
 
-Check the [`LICENSE`](./LICENSE.txt) file for full details.
+Check the [LICENSE](./LICENSE.txt) file for full details.
