@@ -1,0 +1,26 @@
+LICENSE AGREEMENT
+
+Copyright © 2025 by olivvier14
+
+1. Definitions  
+   1.1. “Website” refers to the live site as hosted on GitHub Pages.  
+   1.2. “Source Code” refers to all HTML, CSS, JavaScript, and related assets comprising the Website.
+
+2. Grant of View and Distribution Rights  
+   2.1. Subject to the terms of this Agreement, the Licensee is hereby granted a non-exclusive, royalty-free, worldwide right to access, view, and distribute the live Website in its original, unaltered form.
+
+3. Restrictions  
+   3.1. The Licensee shall not copy, reproduce, modify, translate, adapt, create derivative works, redistribute, sell, sublicense, or otherwise exploit any portion of the Source Code or underlying assets without the prior express written permission of the Copyright Holder.  
+   3.2. Any unauthorized use of the Source Code constitutes a material breach of this Agreement and infringement of the Copyright Holder’s rights.
+
+4. Enforcement and Remedies  
+   4.1. The Licensee acknowledges that any breach of this Agreement may cause irreparable harm to the Copyright Holder for which monetary damages may be insufficient.  
+   4.2. In addition to any other remedies available at law or in equity, the Copyright Holder shall be entitled to seek injunctive relief to enforce the terms of this Agreement.
+
+5. Governing Law  
+   5.1. This Agreement shall be governed by and construed in accordance with the laws of the Republic of Poland, without regard to its conflict of laws principles.
+
+6. Entire Agreement  
+   6.1. This document constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous understandings, whether written or oral.  
+
+By accessing or sharing the live Website, you agree to be bound by the terms and conditions set forth in this License Agreement.```
