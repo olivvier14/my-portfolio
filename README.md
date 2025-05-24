@@ -14,6 +14,10 @@ It’s a simple front-end project built with HTML, CSS, and JavaScript, and is h
 - JavaScript (Vanilla)  
 - Hosted on GitHub Pages
 
+## 📅 Future Plans
+
+Check out my [Future Plans](./FUTURE-PLANS.md) to see what's coming next!
+
 ## ⚠️ License
 
 This project is **not open source**.
