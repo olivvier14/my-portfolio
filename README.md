@@ -16,7 +16,7 @@ It’s a simple front-end project built with HTML, CSS, and JavaScript, and is h
 
 ## 📅 Future Plans
 
-Check out my [Future Plans](./FUTURE-PLANS.md) to see what's coming next!
+Check out my [Future Plans](./future-plans.md) to see what's coming next!
 
 ## ⚠️ License
 
