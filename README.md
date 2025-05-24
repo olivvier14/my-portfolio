@@ -5,7 +5,7 @@ It’s a simple front-end project built with HTML, CSS, and JavaScript, and is h
 
 ## 🔗 Live Website
 
-👉 [Click here to view the live site](https://olivvier14.github.io/my-portfolio/)  
+👉 [Click here to view the live site](https://olivvier14.github.io/my-portfolio/index.html)  
 
 ## 📁 Tech Stack
 
